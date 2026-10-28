@@ -1,0 +1,12 @@
+{
+  "name": "documentation-astro",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "astro build",
+    "start": "astro preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}
